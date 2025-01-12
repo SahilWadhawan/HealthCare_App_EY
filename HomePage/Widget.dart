@@ -10,26 +10,6 @@ import 'home_page_model.dart';
 export 'home_page_model.dart';
 
 class HomePageWidget extends StatefulWidget {
-  ///
-  /// The home page of the AI Healthcare Companion mobile app should feature a
-  /// modern, user-centric design tailored for traveling doctors, addressing key
-  /// challenges like time constraints, decentralized patient data, and resource
-  /// limitations in rural healthcare. It should include core functionalities
-  /// such as a Patient Health Record System (PHR), enabling easy input,
-  /// retrieval, and management of longitudinal patient data with QR-code-based
-  /// identification and offline synchronization. AI-Driven Predictive Analytics
-  /// should provide insights into disease progression based on historical data.
-  /// Remote Monitoring & Alerts can integrate IoT devices like pulse oximeters
-  /// and blood glucose monitors for real-time vitals tracking and automated
-  /// notifications for abnormalities. The solution will leverage Responsible AI
-  /// Integration using federated learning for data privacy and compliance with
-  /// PDPB and GDPR. Designed for Commercial Scalability, it supports
-  /// subscription models, partnerships with rural health initiatives, and
-  /// integration with health insurance schemes. Built with React Native, a
-  /// Flask backend, TensorFlow models, and MongoDB, the app ensures streamlined
-  /// patient management, improved outcomes, and scalable, privacy-compliant AI
-  /// for rural healthcare deployment. Make the search button responsive and the
-  /// icons also responsive.
   const HomePageWidget({super.key});
 
   @override
